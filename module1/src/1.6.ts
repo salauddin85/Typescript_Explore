@@ -2,7 +2,7 @@
 
 // Normal function 
 // Arrow function 
-
+{
 function add(num1:number,num2:number):number{
     return num1+num2;
 }
@@ -30,3 +30,4 @@ const poorUser = {
 
 }
 console.log(poorUser.addBalance(100));
+}

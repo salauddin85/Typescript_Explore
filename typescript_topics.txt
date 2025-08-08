@@ -1,0 +1,5 @@
+1.first typescript programme 
+2.Basic data types 
+3.object ,optional and literal types
+4.Function in typescript 
+5.Spread and rest operator
