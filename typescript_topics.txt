@@ -3,3 +3,4 @@
 3.object ,optional and literal types
 4.Function in typescript 
 5.Spread and rest operator
+6.object and array destructuring
