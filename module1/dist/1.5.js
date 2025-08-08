@@ -9,7 +9,8 @@ const users = [
     {
         firstName: "Jane",
         lastName: "Doe",
-        age: 25
+        age: 25,
+        company: "ABC Inc."
     }
 ];
 console.log(users);

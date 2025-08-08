@@ -2,7 +2,8 @@ const users: {
   readonly firstName: string,
   middleName?: string,   // optional
   lastName: string,
-  age: number
+  age: number,
+  company?: string
 }[] = [
   {
     firstName: "John",
@@ -13,7 +14,8 @@ const users: {
   {
     firstName: "Jane",
     lastName: "Doe",
-    age: 25
+    age: 25,
+    company: "ABC Inc."
   }
 ];
 
